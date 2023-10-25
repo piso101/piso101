@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oskar Kacała</h1>
 <h3 align="center">Pasionate .Net Developer</h3>
-<hr width="50%" color="black" size="50px" />
+<hr width="100%" color="black" size="50px" />
 <p align="left">
 </p>
 
