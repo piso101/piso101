@@ -1,6 +1,6 @@
 <h1 align="center">Oskar Kacała</h1>
 <br/>
-<br/>
+
 
 
 <h3 align="center">Pasionate .Net Developer</h3>
@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
