@@ -1,11 +1,11 @@
 <h1 align="center">Oskar Kacała</h1>
 <hr width="100%" color="black" size="60px" />
-<br/>
+
 
 
 
 <h3 align="center">Pasionate .Net Developer</h3>
-<br/>
+
 
 <hr width="100%" color="black" size="30px" />
 <br/>
